@@ -26,7 +26,7 @@ python demo.py
 ```    
 
 If installation is sucessful, you should see the following:
-![FlowNet2 Sample Prediction](https://github.com/vt-vl-lab/pwc-net.pytorch/blob/master/misc/demo.png)
+![PWC-Net Sample Prediction](https://github.com/vt-vl-lab/pwc-net.pytorch/blob/master/misc/demo.png)
    
 ### Reference 
 If you find this implementation useful in your work, please acknowledge it appropriately and cite the paper using:
